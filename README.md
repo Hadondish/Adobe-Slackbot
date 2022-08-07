@@ -1,2 +1,2 @@
 # Adobe-Slackbot
-Slackbot
+Slackbot used to communicate between members.
